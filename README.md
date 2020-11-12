@@ -65,7 +65,7 @@
 - 📖 **Bachelor of Science in Computer Science BS(CS)**\
 📆 2008 - 2012\
 📍 **University of agriculture** - Faisalabad, Pakistan
-<br/>
+
 
 - 📖 **.Net Certification**\
 📆 2011 - 2011\
