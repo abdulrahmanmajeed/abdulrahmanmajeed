@@ -13,8 +13,9 @@
 
 ### Connect with me 
 
+[<img align="left" alt="play-store" src="https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge" />][play-store]
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium]
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />][stackoverflow]
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][empty]
 
@@ -36,7 +37,7 @@
 <img align="left" alt="Abdul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanmajeed&show_icons=true&theme=calm" />
 <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanmajeed&theme=calm" />
 
-
+[play-store]: https://play.google.com/store/search?q=microcian&c=apps
 [medium]: https://medium.com/@a.rahman.uaf
 [linkedin]: https://www.linkedin.com/in/abdul-rahman-majeed-358b143a/
 [stackoverflow]: https://stackoverflow.com/users/1315944/abdul-rahman
