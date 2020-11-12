@@ -2,7 +2,7 @@
 
 ## I'm a Android Developer, Technology Entusiast, Movie Buff and Great Cook!!
 
-- 🌱 I’m currently exploring new things in technology. 🤣
+- 🌱 I’m currently exploring new things in technology.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 Goals: Contribute more to Open Source projects.
 - ⚡ I love to play cricket, badminton and i love to cook.
@@ -33,7 +33,7 @@
 
 ### :zap: GitHub Stats
 
-  <img align="left" alt="Eresh's GitHub Stats" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=ereshzealous&show_icons=true&hide_border=true" />
+  <img align="left" alt="Abdul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanmajeed&show_icons=true&hide_border=true" />
 
 
 [medium]: https://medium.com/@a.rahman.uaf
