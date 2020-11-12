@@ -9,7 +9,7 @@
 
 ### SoundCloud Playing 🎧
 
-[![<img align="left" alt="sound-cloud" src="https://img.shields.io/badge/soundcloud-FF3300?logo=soundcloud&logoColor=white&style=for-the-badge" />](https://soundcloud.com/stream)](https://soundcloud.com/abdul-rahman-majeed)
+[<img align="left" alt="sound-cloud" src="https://img.shields.io/badge/soundcloud-FF3300?logo=soundcloud&logoColor=white&style=for-the-badge" />][sound-cloud]
 
 ### Connect with me 
 
@@ -45,6 +45,7 @@
 <img align="left" alt="Abdul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanmajeed&show_icons=true&theme=calm" />
 <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanmajeed&theme=calm" />
 
+[sound-cloud]: https://soundcloud.com/abdul-rahman-majeed
 [play-store]: https://play.google.com/store/search?q=microcian&c=apps
 [medium]: https://medium.com/@a.rahman.uaf
 [linkedin]: https://www.linkedin.com/in/abdul-rahman-majeed-358b143a/
