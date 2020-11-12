@@ -30,9 +30,10 @@
 
 </p>
 
+
+
 <p align='center'>
-  <a href="#"><img align="left" alt="Abdul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanmajeed&show_icons=true&theme=calm&count_private=true" width="350" /></a>
-  <a href="#"><img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanmajeed&theme=calm&count_private=true" width="170" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
