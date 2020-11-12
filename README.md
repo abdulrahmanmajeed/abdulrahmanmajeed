@@ -32,9 +32,9 @@
 
 <p align='center'>
   <a href="#"><img align="left" alt="Abdul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanmajeed&show_icons=true&theme=calm&count_private=true" width="350" /></a>
-  <a href="#"><img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanmajeed&theme=calm&count_private=true" width="350" /></a>
+  <a href="#"><img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanmajeed&theme=calm&count_private=true" width="170" /></a>
 </p>
-<br/><br/>
+
 <p align='center'>
   💻 My workspace specs<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
