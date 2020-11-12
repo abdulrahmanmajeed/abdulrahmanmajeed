@@ -9,7 +9,7 @@
 
 ### SoundCloud Playing 🎧
 
-[![Spotify](https://novatorem.ereshzealous.vercel.app/api/spotify)](https://soundcloud.com/abdul-rahman-majeed)
+[![SoundCloud](https://novatorem.ereshzealous.vercel.app/api/spotify)](https://soundcloud.com/abdul-rahman-majeed)
 
 ### Connect with me 
 
