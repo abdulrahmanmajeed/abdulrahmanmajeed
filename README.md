@@ -7,9 +7,12 @@
 - 🥅 Goals: Contribute more to Open Source projects.
 - ⚡ I love to play cricket, badminton and i love to cook.
 
-### SoundCloud Playing 🎧
+### 🎧 SoundCloud Playing 
 
 [<img align="left" alt="sound-cloud" src="https://img.shields.io/badge/soundcloud-FF3300?logo=soundcloud&logoColor=white&style=for-the-badge" />][sound-cloud]
+
+<br/>
+<br />
 
 ### Connect with me 
 
