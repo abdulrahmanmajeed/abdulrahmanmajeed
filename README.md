@@ -9,7 +9,7 @@
 
 ### SoundCloud Playing 🎧
 
-[![Sound Cloud](https://soundcloud.com/stream)](https://soundcloud.com/abdul-rahman-majeed)
+[![<img align="left" alt="sound-cloud" src="https://img.shields.io/badge/soundcloud-FF3300?logo=soundcloud&logoColor=white&style=for-the-badge" />](https://soundcloud.com/stream)](https://soundcloud.com/abdul-rahman-majeed)
 
 ### Connect with me 
 
