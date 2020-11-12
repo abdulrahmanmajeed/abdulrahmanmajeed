@@ -62,9 +62,14 @@
 
 ## Education
 
-- 📖 **Web Development**\
-📆 2013 - 2016\
-📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
+- 📖 **Bachelor of Science in Computer Science BS(CS)**\
+📆 2008 - 2012\
+📍 **University of agriculture** - Faisalabad, Pakistan
+<br/>
+
+- 📖 **.Net Certification**\
+📆 2011 - 2011\
+📍 **Eventure Solutions** - Faisalabad, Pakistan
 
 ## Experience
 
@@ -76,15 +81,27 @@
 <img align="right" src="https://img.shields.io/badge/UWP-0089D6?logo=microsoft&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
-- 👨‍💻 **CIO and Mobile Developer**\
-📆 2016 - Moment\
-📍 **Infinitus Solutions** - Curitiba, Brazil
+- 👨‍💻 **Sr. Android Developer**\
+📆 Oct 2018 - Moment\
+📍 **NextBridge Pvt. Ltd.** - Lahore, Pakistan
 
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
+
+
+- 👨‍💻 **Sr. Android Developer**\
+📆 Sep 2019 - Mar 2020\
+📍 **Dubai Health Authority (DHA)** - Aljafliya, Dubai
+
+<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
+
 
 - 👨‍💻 **Systems Analyst and Front End Developer**\
 📆 2015 - 2016\
@@ -129,7 +146,7 @@
 </details>
 
 <!--
-**alexandresanlim/alexandresanlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**abdulrahmanmajeed/abdulrahmanmajeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
