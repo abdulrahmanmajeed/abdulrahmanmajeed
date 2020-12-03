@@ -33,8 +33,8 @@
 
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=abdulrahmanmajeed&show_icons=true&theme=calm&count_private=true" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanmajeed&theme=calm&count_private=true" width="250"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=microcian&show_icons=true&theme=calm&count_private=true" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=microcian&theme=calm&count_private=true" width="250"></a>
 </p>
 
 <p align='center'>
@@ -146,7 +146,7 @@
 </details>
 
 <!--
-**abdulrahmanmajeed/abdulrahmanmajeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**microcian/microcian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
