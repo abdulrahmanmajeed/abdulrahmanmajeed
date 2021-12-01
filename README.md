@@ -39,7 +39,7 @@
 
 <p align='center'>
   💻 My workspace specs<br/><br/>
-  <img src="https://files.softicons.com/download/system-icons/hardwaremx-icons-by-studiomx/png/256/MacMini.png" width="64" height="64" />
+  <img src="https://seeklogo.com/images/A/apple-m1-logo-A31A024F83-seeklogo.com.png" width="50" height="50" />
   <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
  </p>
 
