@@ -40,10 +40,11 @@
 <p align='center'>
   💻 My workspace specs<br/><br/>
   <img src="https://seeklogo.com/images/A/apple-m1-logo-A31A024F83-seeklogo.com.png" height="40" />
-  <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
  </p>
 
 <!-- <details align='center'>
+ <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <summary>:zap: My workspace specs</summary>
 </details>-->
 
